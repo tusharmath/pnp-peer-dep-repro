@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "foo": "node ./packages/my-module/index.js"
+    "foo": "node -r ./.pnp.js ./packages/my-module/index.js"
   },
   "installConfig": {
     "pnp": true
