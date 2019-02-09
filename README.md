@@ -6,3 +6,7 @@ After cloning the repository just run the following commands
 yarn install
 yarn foo
 ```
+
+# Notes
+
+- The repo uses yarn workspaces
