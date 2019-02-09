@@ -1,5 +1,6 @@
 {
   "name": "my-module",
+  "version": "1.0.0",
   "dependencies": {
     "@gql2ts/from-query": "^1.9.0",
     "graphql": "^14.0.0"
